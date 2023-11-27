@@ -1,5 +1,9 @@
 <fable>
 	<page background="img-bg-3.jpeg">
-      <agent x="25" y="250" color="white" font-size="16" text="Several shadowy apparitions are emerging from the temple floor" on-touch="_NEXT_PAGE"/>
+      <agent img="portion.png" x="450" y="450" 
+      width="38" height="38" draggable="true" on-drop="restore" on-zone="lived" on-trigger="lived">
+    	
+      <lived x="-50" />
+    </agent> 
   </page>
 </fable>
