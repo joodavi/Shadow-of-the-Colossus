@@ -1,6 +1,5 @@
 <fable>
 	<page background="img-bg-3.jpeg">
-      <agent x="25" y="250" color="white" font-size="16" text="But to trespass upon that land is strictly forbidden..." on-touch="_NEXT_PAGE"/>
-    
+      <agent x="25" y="250" color="white" font-size="16" text="Several shadowy apparitions are emerging from the temple floor" on-touch="_NEXT_PAGE"/>
   </page>
 </fable>
