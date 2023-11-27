@@ -1,7 +1,7 @@
 <fable>
 	<page background="img-bg-3.jpeg">
       <agent 
-          img="sword.png" x="450" y="450" width="125" height="125" 
+          img="sword.png" x="350" y="350" width="125" height="125" 
           draggable="true" on-drop="restore" on-zone="lived" on-trigger="lived">
       <lived x="-50" />
     </agent> 
