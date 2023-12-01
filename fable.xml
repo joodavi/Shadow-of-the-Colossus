@@ -4,17 +4,17 @@
     </page>
     <page background="bg-4.jpeg">
         <agent x="15" y="165" color="white" font-size="18" text="Você tem a espada ancestral?" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="120" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="118" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="bg-4.jpeg">
         <agent x="15" y="165" color="white" font-size="18" text="Você tem a espada ancestral?" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="102" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="58" color="white" font-size="18" text="Almas que foram perdidas não podem ser resgatadas... Não é essa a lei dos mortais?" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="118" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="70" color="white" font-size="18" text="Almas que foram perdidas não podem ser resgatadas... Não é essa a lei dos mortais?" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="bg-4.jpeg">
         <agent x="15" y="165" color="white" font-size="18" text="Você tem a espada ancestral?" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="102" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="58" color="white" font-size="18" text="Almas que foram perdidas não podem ser resgatadas... Não é essa a lei dos mortais?" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="15" color="white" font-size="18" text="Com essa espada, contudo... talvez não seja impossível" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="118" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="70" color="white" font-size="18" text="Almas que foram perdidas não podem ser resgatadas... Não é essa a lei dos mortais?" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="25" color="white" font-size="18" text="Com essa espada, contudo... talvez não seja impossível" on-touch="_NEXT_PAGE"/>
     </page>
 </fable>
