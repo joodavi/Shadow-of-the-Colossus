@@ -1,5 +1,6 @@
 <fable>
     <page background="bg-3-1.jpeg">
-        <agent x="15" y="450" color="white" font-size="18" text="Mono" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="450" color="white" font-size="18" text="Mono foi morta porque acreditava-se que ela tinha um destino amaldiçoado." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="430" color="white" font-size="18" text="Wander roubou a Espada Ancestral" on-touch="_NEXT_PAGE"/>
     </page>
 </fable>
