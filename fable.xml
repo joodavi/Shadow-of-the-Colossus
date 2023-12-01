@@ -4,7 +4,7 @@
         <agent img="sword.png" x="220" y="275" width="64" height="64" />
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" />
         <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" />
-        <agent img="map.jpeg" x="50" y="350" width="64" height="64" />
-        <agent img="map.jpeg" x="50" y="350" width="64" height="64" />
+        <agent img="video.jpeg" x="50" y="100" width="64" height="64" />
+        <agent img="curiosity.jpeg" x="400" y="100" width="64" height="64" />
     </page>
 </fable>
