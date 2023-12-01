@@ -1,9 +1,6 @@
 <fable>
     <page background="bg-2.jpeg">
-        <agent x="25" y="170" color="white" font-size="20" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
-    </page>
-    <page background="bg-2.jpeg">
-        <agent x="25" y="170" color="white" font-size="20" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
-        <agent x="25" y="170" color="white" font-size="20" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="170" color="white" font-size="18" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="120" color="white" font-size="18" text="Eles são memórias substituídas por algo e por nada, e cravadas na pedra..." on-touch="_NEXT_PAGE"/>
     </page>
 </fable>
