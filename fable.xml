@@ -1,5 +1,6 @@
 <fable>
     <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS" on-touch="_NEXT_PAGE"/>
+        <agent img="map.jpeg" x="0" />
     </page>
 </fable>
