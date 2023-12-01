@@ -1,9 +1,5 @@
 <fable>
-    <page background="bg-7.jpeg">
-        <agent x="15" y="22" color="white" font-size="18" text="Lá, você encontrará o Colosso que você deve derrotar" on-touch="_NEXT_PAGE"/>
-    </page>
-    <page background="bg-7.jpeg">
-        <agent x="15" y="65" color="white" font-size="18" text="Eleva tua espada para a luz e vai ao local onde a luz da espada se concentra" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="22" color="white" font-size="18" text="Lá, você encontrará o Colosso que você deve derrotar" on-touch="_NEXT_PAGE"/>
+    <page background="bg-8.jpeg">
+        <agent x="220" y="22" color="white" font-size="24" text="VALUS" on-touch="_NEXT_PAGE"/>
     </page>
 </fable>
