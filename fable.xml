@@ -1,7 +1,7 @@
 <fable>
     <page background="bg-5.jpeg">
         <agent x="15" y="135" color="white" font-size="18" text="Eis os ídolos que jazem na parede... Você deve destruir todos eles" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="50" color="white" font-size="18" text="Mas eleste" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="20" color="white" font-size="18" text="Almas que foram perdidas não podem ser resgatadas... Não é essa a lei dos mortais?" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="90" color="white" font-size="18" text="Mas esses ídolos não podem ser destruídos pelas meras mãos de um mortal..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="45" color="white" font-size="18" text="" on-touch="_NEXT_PAGE"/>
     </page>
 </fable>
