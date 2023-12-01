@@ -5,5 +5,5 @@
     
     <page background="img-bg-2.jpeg">
         <agent x="165" y="110" color="white" font-size="48" text="JOGAR" on-touch="_NEXT_PAGE" />
-    <page/>
+    </page>
 </fable>
