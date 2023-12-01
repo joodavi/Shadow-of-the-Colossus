@@ -1,7 +1,86 @@
 <fable>
+	<page background="bg-1.jpeg">
+        <agent x="165" y="110" color="white" font-size="48" text="JOGAR" on-touch="_NEXT_PAGE" />
+  </page>
+    
+    <page background="bg-2.jpeg">
+        <agent x="15" y="145" color="white" font-size="18" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+    </page>
+
+    <page background="bg-2.jpeg">
+        <agent x="15" y="145" color="white" font-size="18" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="100" color="white" font-size="18" text="Eles são memórias substituídas por algo e por nada, e cravadas na pedra..." on-touch="_NEXT_PAGE"/>
+    </page>
+    
+    <page background="bg-2.jpeg">
+        <agent x="15" y="145" color="white" font-size="18" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="100" color="white" font-size="18" text="Eles são memórias substituídas por algo e por nada, e cravadas na pedra..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="55" color="white" font-size="18" text="Sangue, jovens brotos, céu - e aquele com a habilidade de controlar seres nascidos da luz..." on-touch="_NEXT_PAGE"/>
+    </page>
+    
+    <page background="bg-2.jpeg">
+        <agent x="15" y="105" color="white" font-size="18" text="Naquele mundo, é dito que se alguém assim desejar, alguém pode trazer a alma dos mortos de volta." on-touch="_NEXT_PAGE"/>
+    </page>
+
+    <page background="bg-2.jpeg">
+        <agent x="15" y="105" color="white" font-size="18" text="Naquele mundo, é dito que se alguém assim desejar, alguém pode trazer a alma dos mortos de volta." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="80" color="white" font-size="18" text="Mas invadir aquelas terras é estritamente proibido..." on-touch="_NEXT_PAGE"/>
+    </page>
+
+
+    <page background="bg-3-1.jpeg">
+        <agent x="15" y="445" color="white" font-size="18" text="Mono foi morta porque acreditava-se que ela tinha um destino amaldiçoado." on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-3-1.jpeg">
+        <agent x="15" y="445" color="white" font-size="18" text="Mono foi morta porque acreditava-se que ela tinha um destino amaldiçoado." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="403" color="white" font-size="18" text="Wander roubou a Espada Ancestral e levou o corpo dela para à Terra Proibida para revivê-la." on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-4.jpeg">
+        <agent x="15" y="165" color="white" font-size="18" text="Você tem a espada ancestral?" on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-4.jpeg">
+        <agent x="15" y="165" color="white" font-size="18" text="Você tem a espada ancestral?" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="118" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-4.jpeg">
+        <agent x="15" y="165" color="white" font-size="18" text="Você tem a espada ancestral?" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="118" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="70" color="white" font-size="18" text="Almas que foram perdidas não podem ser resgatadas... Não é essa a lei dos mortais?" on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-4.jpeg">
+        <agent x="15" y="165" color="white" font-size="18" text="Você tem a espada ancestral?" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="118" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="70" color="white" font-size="18" text="Almas que foram perdidas não podem ser resgatadas... Não é essa a lei dos mortais?" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="25" color="white" font-size="18" text="Com essa espada, contudo... talvez não seja impossível" on-touch="_NEXT_PAGE"/>
+    </page>
+    
+    <page background="bg-5.jpeg">
+        <agent x="15" y="135" color="white" font-size="18" text="Eis os ídolos que jazem na parede... Você deve destruir todos eles" on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-5.jpeg">
+        <agent x="15" y="135" color="white" font-size="18" text="Eis os ídolos que jazem na parede... Você deve destruir todos eles" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="90" color="white" font-size="18" text="Mas esses ídolos não podem ser destruídos pelas meras mãos de um mortal..." on-touch="_NEXT_PAGE"/>
+    </page>
     <page background="bg-5.jpeg">
         <agent x="15" y="135" color="white" font-size="18" text="Eis os ídolos que jazem na parede... Você deve destruir todos eles" on-touch="_NEXT_PAGE"/>
         <agent x="15" y="90" color="white" font-size="18" text="Mas esses ídolos não podem ser destruídos pelas meras mãos de um mortal..." on-touch="_NEXT_PAGE"/>
         <agent x="15" y="45" color="white" font-size="18" text="Nessa terra, existem Colossos que são encarnações desse ídolos." on-touch="_NEXT_PAGE"/>
+    </page>
+
+    <page background="bg-6.jpeg">
+        <agent x="15" y="80" color="white" font-size="18" text="Se derrotar esses Colossos, os ídolos cairão" on-touch="_NEXT_PAGE"/>
+    </page>
+
+    <page background="bg-6.jpeg">
+        <agent x="15" y="80" color="white" font-size="18" text="Se derrotar esses Colossos, os ídolos cairão" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="55" color="white" font-size="18" text="Mas saiba que o preço a pagar pode ser caro" on-touch="_NEXT_PAGE"/>
+    </page>
+
+    <page background="bg-7.jpeg">
+        <agent x="15" y="22" color="white" font-size="18" text="Lá, você encontrará o Colosso que você deve derrotar" on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-7.jpeg">
+        <agent x="15" y="65" color="white" font-size="18" text="Eleva tua espada para a luz e vai ao local onde a luz da espada se concentra" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="22" color="white" font-size="18" text="Lá, você encontrará o Colosso que você deve derrotar" on-touch="_NEXT_PAGE"/>
     </page>
 </fable>
