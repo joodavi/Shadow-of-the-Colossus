@@ -1,10 +1,6 @@
 <fable>
-	<page background="img-bg-3.jpeg">
+	<page background="bg-1.jpeg">
         <agent x="25" y="450" color="black" font-size="16" text="Dê a espada a Wander" />
-      <agent 
-          img="sword.png" x="0375" y="30" width="125" height="125" 
-          draggable="true" on-drop="restore" on-zone="lived" on-trigger="lived">
-      <lived x="-50" />
     </agent> 
   </page>
 </fable>
