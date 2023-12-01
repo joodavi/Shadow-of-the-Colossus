@@ -1,9 +1,5 @@
 <fable>
-	<page background="bg-1.jpeg">
-        <agent x="165" y="110" color="white" font-size="48" text="JOGAR" on-touch="_NEXT_PAGE" />
-  </page>
-    
     <page background="bg-2.jpeg">
-        <agent x="165" y="110" color="white" font-size="48" text="JOGAR" on-touch="_NEXT_PAGE" />
+        <agent x="165" y="110" color="white" font-size="20" text="JOGAR" on-touch="_NEXT_PAGE" />
     </page>
 </fable>
