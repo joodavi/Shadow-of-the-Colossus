@@ -1,8 +1,7 @@
 <fable>
     <page background="bg-5.jpeg">
-        <agent x="15" y="165" color="white" font-size="18" text="Eis os ídolos que jazem na" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="118" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="70" color="white" font-size="18" text="Almas que foram perdidas não podem ser resgatadas... Não é essa a lei dos mortais?" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="25" color="white" font-size="18" text="Com essa espada, contudo... talvez não seja impossível" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="135" color="white" font-size="18" text="Eis os ídolos que jazem na parede... Você deve destruir todos eles" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="50" color="white" font-size="18" text="Mas eleste" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="20" color="white" font-size="18" text="Almas que foram perdidas não podem ser resgatadas... Não é essa a lei dos mortais?" on-touch="_NEXT_PAGE"/>
     </page>
 </fable>
