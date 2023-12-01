@@ -1,7 +1,6 @@
 <fable>
     <page background="bg-6.jpeg">
-        <agent x="15" y="120" color="white" font-size="18" text="Se derrotar esses Colossos, os ídolos cairão" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="75" color="white" font-size="18" text="Mas esses ídolos não podem ser destruídos pelas meras mãos de um mortal..." on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="15" color="white" font-size="18" text="Mas saiba que o preço a pagar pode ser caro" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="80" color="white" font-size="18" text="Se derrotar esses Colossos, os ídolos cairão" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="55" color="white" font-size="18" text="Mas saiba que o preço a pagar pode ser caro" on-touch="_NEXT_PAGE"/>
     </page>
 </fable>
