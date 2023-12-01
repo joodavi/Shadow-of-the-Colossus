@@ -1,5 +1,9 @@
 <fable>
     <page background="bg-2.jpeg">
-        <agent x="25" y="110" color="white" font-size="20" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+        <agent x="25" y="170" color="white" font-size="20" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-2.jpeg">
+        <agent x="25" y="170" color="white" font-size="20" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+        <agent x="25" y="170" color="white" font-size="20" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
     </page>
 </fable>
