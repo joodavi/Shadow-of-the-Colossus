@@ -1,8 +1,21 @@
 <fable>
+	<page background="bg-1.jpeg">
+        <agent x="165" y="110" color="white" font-size="48" text="JOGAR" on-touch="_NEXT_PAGE" />
+  </page>
     
     <page background="bg-2.jpeg">
-        <agent x="15" y="150" color="white" font-size="18" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="105" color="white" font-size="18" text="Eles são memórias substituídas por algo e por nada, e cravadas na pedra..." on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="60" color="white" font-size="18" text="Sangue, jovens brotos, céu - e aquele com a habilidade de controlar seres nascidos da luz..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="145" color="white" font-size="18" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+    </page>
+
+
+    <page background="bg-2.jpeg">
+        <agent x="15" y="145" color="white" font-size="18" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="100" color="white" font-size="18" text="Eles são memórias substituídas por algo e por nada, e cravadas na pedra..." on-touch="_NEXT_PAGE"/>
+    </page>
+    
+    <page background="bg-2.jpeg">
+        <agent x="15" y="145" color="white" font-size="18" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="100" color="white" font-size="18" text="Eles são memórias substituídas por algo e por nada, e cravadas na pedra..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="55" color="white" font-size="18" text="Sangue, jovens brotos, céu - e aquele com a habilidade de controlar seres nascidos da luz..." on-touch="_NEXT_PAGE"/>
     </page>
 </fable>
