@@ -1,8 +1,8 @@
 <fable>
     <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS" on-touch="_NEXT_PAGE"/>
-        <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop>
-
+        <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock" on-zone="unlocked" on-trigger="unlocked">
+            <unlocked></
         </agent>    
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" />
         
