@@ -1,6 +1,7 @@
 <fable>
     <page background="bg-4.jpeg">
         <agent x="15" y="147" color="white" font-size="18" text="Você tem a espada ancestral?" on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="122" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Do" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="102" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="82" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
     </page>
 </fable>
