@@ -11,7 +11,7 @@
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" />
         
         <agent img="weak-point-icon-lock.jpeg" x="400" y="350" width="64" height="64" drop-zone="unlock">
-            <unlock img="weak-point-icon.jpeg" width="64" height="64" on-tou />
+            <unlock img="weak-point-icon.jpeg" width="64" height="64" on-touch="_NEXT_PAGE" />
         </agent>
         
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64" drop-zone="unlock2">
@@ -31,7 +31,7 @@
         
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" />
         
-        <agent img="weak-point-icon-lock.jpeg" x="400" y="350" width="64" height="64" drop-zone="unlock">
+        <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" drop-zone="unlock">
         </agent>
         
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64" drop-zone="unlock2">
