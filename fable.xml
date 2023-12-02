@@ -1,5 +1,23 @@
 <fable>
-    <P
+    <page background="bg-8.jpeg">
+        <agent x="217" y="235" color="white" font-size="24" text="VALUS" />
+        <agent 
+            img="sword.png" x="220" y="275" width="64" height="64" draggable="true" 
+            on-drop="unlock3" on-zone="unlocked3" on-trigger="unlocked3"
+        >
+            <unlocked3 x="200" />
+        </agent>    
+        
+        <agent img="map-lock.jpeg" x="50" y="350" width="64" height="64" drop-zone="unlock3">
+            <unlock3 img="map.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:3" />
+        <agent />
+
+        <agent img="weak-point-icon-lock.jpeg" x="400" y="350" width="64" height="64" />
+        
+        <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64" />
+        
+        <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64" />
+    </page>
     <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent 
