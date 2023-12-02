@@ -45,7 +45,7 @@
             img="sword.png" x="220" y="275" width="64" height="64" draggable="true" 
             on-drop="unlock3" on-zone="unlocked3" on-trigger="unlocked3"
         >
-            <unlocked3 x="-50" />
+            <unlocked3 x="200" />
         </agent>    
         
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" />
