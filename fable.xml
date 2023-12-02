@@ -42,9 +42,9 @@
         </agent>
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:5"/>
         <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" on-touch="_GOTO_PAGE:6"/>
-        <agent img="video.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:7" />
+        <agent img="video.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:7"/>
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64">
-            <unlock4  />
+            <unlock4 img="curiosity.jpeg" x="400" y="100" width="64" height="64"/>
         </agent>
     </page>
     <page background="bg-8.jpeg">
