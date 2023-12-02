@@ -24,6 +24,7 @@
     </page>
     
     <page background="bg-8.jpeg">
+        <agent x="20" y="190" color="white" font-size="20" text="Ao subir na panturrilha e apunhalar ela, Valus tropeçará, dando brecha para que você possa escalar sua perna. Suba até a cabeça onde estará seu ponto vital. "/>
         <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_PREV_PAGE" />
     </page>
 </fable>
