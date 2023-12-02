@@ -86,7 +86,7 @@
     
     
     
-    <page background="bg-8.jpeg"> 20
+    <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock3" on-zone="unlocked3" on-trigger="unlocked3">
             <unlocked3 x="200"/>
@@ -98,7 +98,7 @@
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64"/>
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64"/>
     </page>
-    <page background="bg-8.jpeg"> 21
+    <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock" on-zone="unlocked" on-trigger="unlocked">
             <unlocked x="200"/>
@@ -110,7 +110,7 @@
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64"/>
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64"/>
     </page>
-    <page background="bg-8.jpeg"> 22
+    <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock2" on-zone="unlocked2" on-trigger="unlocked2">
             <unlocked2 x="200"/>
@@ -122,7 +122,7 @@
         </agent>
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64"/>
     </page>
-    <page background="bg-8.jpeg"> 23
+    <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock4" on-zone="unlocked4" on-trigger="unlocked4">
             <unlocked4 x="200"/>
@@ -135,7 +135,7 @@
         </agent>
     </page>
     
-    <page background="bg-8.jpeg"> 24
+    <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock4" on-zone="unlocked4" on-trigger="unlocked4">
             <unlocked4 x="200"/>
@@ -145,7 +145,7 @@
         <agent img="video.jpeg" x="50" y="100"  width="64" height="64" on-touch="_GOTO_PAGE:27" />
         <agent img="curiosity.jpeg" x="400" y="100" width="64" height="64" on-touch="_GOTO_PAGE:28"/>
     </page>
-    <page background="bg-8.jpeg"> 25
+    <page background="bg-8.jpeg">
         <agent x="20" y="190" color="white" font-size="20" text="Depois de sair do Santuário de Adoração e utilizar o Feixe de Luz da Espada Ancestral, o feixe aponta diretamente para o sul, onde estão penhascos já em vista. Após se dirigir até o local e subir alguns degraus"/>
         <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:21"/>
     </page>
