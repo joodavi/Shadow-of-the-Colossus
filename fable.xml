@@ -135,7 +135,7 @@
         </agent>
     </page>
     
-    <page background="bg-8.jpeg">
+    <page background="bg-8.jpeg"soundtrack="audio2.m4a">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock4" on-zone="unlocked4" on-trigger="unlocked4">
             <unlocked4 x="200"/>
