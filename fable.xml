@@ -1,7 +1,7 @@
 <fable>
     
     <page background="bg-8.jpeg">
-        <agent video="valus.mp4.mp4" x="0" y="200" width="300" height="300" />
+        <agent video="valus.mp4.mp4" x="-200" y="40" width="900" height="400" />
         <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:2" />
     </page>
 </fable>
