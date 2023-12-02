@@ -38,14 +38,14 @@
     <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS" on-touch="_NEXT_PAGE"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock4" on-zone="unlocked4" on-trigger="unlocked4">
-            <unlocked2 x="200"/>
+            <unlocked4 x="200"/>
         </agent>
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:5"/>
         <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" on-touch="_GOTO_PAGE:6"/>
-        <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64" drop-zone="unlock2">
-            <unlock2 img="video.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:7"/>
+        <agent img="video.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:7" />
+        <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64">
+            <unlock4  />
         </agent>
-        <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64"/>
     </page>
     <page background="bg-8.jpeg">
         <agent x="20" y="190" color="white" font-size="20" text="Depois de sair do Santuário de Adoração e utilizar o Feixe de Luz da Espada Ancestral, o feixe aponta diretamente para o sul, onde estão penhascos já em vista. Após se dirigir até o local e subir alguns degraus"/>
