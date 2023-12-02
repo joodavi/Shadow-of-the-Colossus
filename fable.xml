@@ -29,12 +29,12 @@
             <unlocked2 x="200" />
         </agent>    
         
-        <agent img="map.jpeg" x="50" y="350" width="64" height="64" />
+        <agent img="map.jpeg" x="50" y="350" width="64" height="64"  on-touch="_GOTO_PAGE:3" />
         
-        <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" />
+        <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" on-touch="_GOTO_PAGE:4" />
         
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64" drop-zone="unlock2">
-            <unlock2 img="video.jpeg" width="64" height="64" on-touch="" />
+            <unlock2 img="video.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:5" />
         </agent>
         
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64" />
