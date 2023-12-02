@@ -54,7 +54,7 @@
         
         <agent img="video.jpeg" x="50" y="100" width="64" height="64" />
         
-        <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64">
+        <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64 "drop-zone="unlock3">
             <unlock3 img="curiosity.jpeg" width="64" height="64" />
         </agent>    
     </page>
