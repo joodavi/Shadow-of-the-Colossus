@@ -64,7 +64,7 @@
     <page background="bg-5.jpeg">
         <agent x="15" y="135" color="white" font-size="18" text="Eis os ídolos que jazem na parede... Você deve destruir todos eles" on-touch="_NEXT_PAGE"/>
         <agent x="15" y="90" color="white" font-size="18" text="Mas esses ídolos não podem ser destruídos pelas meras mãos de um mortal..." on-touch="_NEXT_PAGE"/>
-        <agent x="15" y="45" color="white" font-size="18" text="Nessa terra, existem Colossos que são encarnações desse ídolos." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="45" color="white" font-size="18" text="Nessa terra, existem Colossos que são encarnações desses ídolos." on-touch="_NEXT_PAGE"/>
     </page>
 
     <page background="bg-6.jpeg">
@@ -86,7 +86,7 @@
     
     
     
-    <page background="bg-8.jpeg"> 20
+    <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock3" on-zone="unlocked3" on-trigger="unlocked3">
             <unlocked3 x="200"/>
@@ -98,7 +98,7 @@
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64"/>
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64"/>
     </page>
-    <page background="bg-8.jpeg"> 21
+    <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock" on-zone="unlocked" on-trigger="unlocked">
             <unlocked x="200"/>
@@ -110,7 +110,7 @@
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64"/>
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64"/>
     </page>
-    <page background="bg-8.jpeg"> 22
+    <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock2" on-zone="unlocked2" on-trigger="unlocked2">
             <unlocked2 x="200"/>
@@ -122,7 +122,7 @@
         </agent>
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64"/>
     </page>
-    <page background="bg-8.jpeg"> 23
+    <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock4" on-zone="unlocked4" on-trigger="unlocked4">
             <unlocked4 x="200"/>
@@ -135,7 +135,7 @@
         </agent>
     </page>
     
-    <page background="bg-8.jpeg"> 24
+    <page background="bg-8.jpeg">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock4" on-zone="unlocked4" on-trigger="unlocked4">
             <unlocked4 x="200"/>
@@ -145,19 +145,19 @@
         <agent img="video.jpeg" x="50" y="100"  width="64" height="64" on-touch="_GOTO_PAGE:26" />
         <agent img="curiosity.jpeg" x="400" y="100" width="64" height="64" on-touch="_GOTO_PAGE:27"/>
     </page>
-    <page background="bg-8.jpeg"> 25
+    <page background="bg-8.jpeg">
         <agent x="20" y="190" color="white" font-size="20" text="Depois de sair do Santuário de Adoração e utilizar o Feixe de Luz da Espada Ancestral, o feixe aponta diretamente para o sul, onde estão penhascos já em vista. Após se dirigir até o local e subir alguns degraus"/>
         <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:21"/>
     </page>
-    <page background="bg-8.jpeg"> 26
+    <page background="bg-8.jpeg">
         <agent x="20" y="190" color="white" font-size="20" text="Ao subir na panturrilha e apunhalar ela, Valus tropeçará, dando brecha para que você possa escalar sua perna. Suba até a cabeça onde estará seu ponto vital. "/>
         <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:22"/>
     </page>
-    <page background="bg-8.jpeg"> 27
+    <page background="bg-8.jpeg">
         <agent video="valus.mp4.mp4" x="-350" y="40" width="1200" height="400"/>
         <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:23"/>
     </page>
-    <page background="bg-8.jpeg"> 28
+    <page background="bg-8.jpeg"> 
         <agent x="20" y="290" color="white" font-size="20" text="Valus é o único colosso acompanhado com vida animal, com vários falcões sobrevoando ao seu redor."/>
         <agent x="20" y="260" color="white" font-size="20" text="Valus é o quarto maior colosso."/>
         <agent x="20" y="205" color="white" font-size="20" text="Valus é um dos três colossos que utilizam armas."/>
