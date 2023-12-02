@@ -1,79 +1,166 @@
 <fable>
-    <page background="bg-8.jpeg">
+	<page background="bg-1.jpeg" soundtrack="audio.m4a">
+        <agent x="165" y="110" color="white" font-size="48" text="JOGAR" on-touch="_NEXT_PAGE" />
+    </page>
+    
+    <page background="bg-2.jpeg">
+        <agent x="15" y="145" color="white" font-size="18" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+    </page>
+
+    <page background="bg-2.jpeg">
+        <agent x="15" y="145" color="white" font-size="18" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="100" color="white" font-size="18" text="Eles são memórias substituídas por algo e por nada, e cravadas na pedra..." on-touch="_NEXT_PAGE"/>
+    </page>
+    
+    <page background="bg-2.jpeg">
+        <agent x="15" y="145" color="white" font-size="18" text="Aquele lugar... começou da ressonância da interseção de pontos..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="100" color="white" font-size="18" text="Eles são memórias substituídas por algo e por nada, e cravadas na pedra..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="55" color="white" font-size="18" text="Sangue, jovens brotos, céu - e aquele com a habilidade de controlar seres nascidos da luz..." on-touch="_NEXT_PAGE"/>
+    </page>
+    
+    <page background="bg-2.jpeg">
+        <agent x="15" y="105" color="white" font-size="18" text="Naquele mundo, é dito que se alguém assim desejar, pode trazer a alma dos mortos de volta." on-touch="_NEXT_PAGE"/>
+    </page>
+
+    <page background="bg-2.jpeg">
+        <agent x="15" y="105" color="white" font-size="18" text="Naquele mundo, é dito que se alguém assim desejar, pode trazer a alma dos mortos de volta." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="80" color="white" font-size="18" text="Mas invadir aquelas terras é estritamente proibido..." on-touch="_NEXT_PAGE"/>
+    </page>
+
+
+    <page background="bg-3-1.jpeg">
+        <agent x="15" y="445" color="white" font-size="18" text="Mono foi morta porque acreditava-se que ela tinha um destino amaldiçoado." on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-3-1.jpeg">
+        <agent x="15" y="445" color="white" font-size="18" text="Mono foi morta porque acreditava-se que ela tinha um destino amaldiçoado." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="403" color="white" font-size="18" text="Wander roubou a Espada Ancestral e levou o corpo dela para à Terra Proibida para revivê-la." on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-4.jpeg">
+        <agent x="15" y="165" color="white" font-size="18" text="Você tem a espada ancestral?" on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-4.jpeg">
+        <agent x="15" y="165" color="white" font-size="18" text="Você tem a espada ancestral?" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="118" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-4.jpeg">
+        <agent x="15" y="165" color="white" font-size="18" text="Você tem a espada ancestral?" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="118" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="70" color="white" font-size="18" text="Almas que foram perdidas não podem ser resgatadas... Não é essa a lei dos mortais?" on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-4.jpeg">
+        <agent x="15" y="165" color="white" font-size="18" text="Você tem a espada ancestral?" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="118" color="white" font-size="18" text="Então você é mortal... Somos aquele que conhecido como Dormin" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="70" color="white" font-size="18" text="Almas que foram perdidas não podem ser resgatadas... Não é essa a lei dos mortais?" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="25" color="white" font-size="18" text="Com essa espada, contudo... talvez não seja impossível" on-touch="_NEXT_PAGE"/>
+    </page>
+    
+    <page background="bg-5.jpeg">
+        <agent x="15" y="135" color="white" font-size="18" text="Eis os ídolos que jazem na parede... Você deve destruir todos eles" on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-5.jpeg">
+        <agent x="15" y="135" color="white" font-size="18" text="Eis os ídolos que jazem na parede... Você deve destruir todos eles" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="90" color="white" font-size="18" text="Mas esses ídolos não podem ser destruídos pelas meras mãos de um mortal..." on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-5.jpeg">
+        <agent x="15" y="135" color="white" font-size="18" text="Eis os ídolos que jazem na parede... Você deve destruir todos eles" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="90" color="white" font-size="18" text="Mas esses ídolos não podem ser destruídos pelas meras mãos de um mortal..." on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="45" color="white" font-size="18" text="Nessa terra, existem Colossos que são encarnações desse ídolos." on-touch="_NEXT_PAGE"/>
+    </page>
+
+    <page background="bg-6.jpeg">
+        <agent x="15" y="80" color="white" font-size="18" text="Se derrotar esses Colossos, os ídolos cairão" on-touch="_NEXT_PAGE"/>
+    </page>
+
+    <page background="bg-6.jpeg">
+        <agent x="15" y="80" color="white" font-size="18" text="Se derrotar esses Colossos, os ídolos cairão" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="55" color="white" font-size="18" text="Mas saiba que o preço a pagar pode ser caro" on-touch="_NEXT_PAGE"/>
+    </page>
+
+    <page background="bg-7.jpeg">
+        <agent x="15" y="65" color="white" font-size="18" text="Eleva tua espada para a luz e vai ao local onde a luz da espada se concentra" on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="bg-7.jpeg">
+        <agent x="15" y="65" color="white" font-size="18" text="Eleva tua espada para a luz e vai ao local onde a luz da espada se concentra" on-touch="_NEXT_PAGE"/>
+        <agent x="15" y="22" color="white" font-size="18" text="Lá, você encontrará o Colosso que você deve derrotar" on-touch="_NEXT_PAGE"/>
+    </page>
+    
+    
+    
+    <page background="bg-8.jpeg"> 20
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock3" on-zone="unlocked3" on-trigger="unlocked3">
             <unlocked3 x="200"/>
         </agent>
         <agent img="map-lock.jpeg" x="50" y="350" width="64" height="64" drop-zone="unlock3">
-            <unlock3 img="map.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:6"/>
+            <unlock3 img="map.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:24"/>
         </agent>
         <agent img="weak-point-icon-lock.jpeg" x="400" y="350" width="64" height="64"/>
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64"/>
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64"/>
     </page>
-    <page background="bg-8.jpeg">
+    <page background="bg-8.jpeg"> 21
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock" on-zone="unlocked" on-trigger="unlocked">
             <unlocked x="200"/>
         </agent>
-        <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:6"/>
+        <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:24"/>
         <agent img="weak-point-icon-lock.jpeg" x="400" y="350" width="64" height="64" drop-zone="unlock">
-            <unlock img="weak-point-icon.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:7"/>
+            <unlock img="weak-point-icon.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:25"/>
         </agent>
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64"/>
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64"/>
     </page>
-    <page background="bg-8.jpeg">
+    <page background="bg-8.jpeg"> 22
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock2" on-zone="unlocked2" on-trigger="unlocked2">
             <unlocked2 x="200"/>
         </agent>
-        <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:6"/>
-        <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" on-touch="_GOTO_PAGE:7"/>
+        <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:24"/>
+        <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" on-touch="_GOTO_PAGE:25"/>
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64" drop-zone="unlock2">
-            <unlock2 img="video.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:8"/>
+            <unlock2 img="video.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:26"/>
         </agent>
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64"/>
     </page>
-    <page background="bg-8.jpeg">
+    <page background="bg-8.jpeg"> 23
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock4" on-zone="unlocked4" on-trigger="unlocked4">
             <unlocked4 x="200"/>
         </agent>
-        <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:6"/>
-        <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" on-touch="_GOTO_PAGE:7"/>
-        <agent img="video.jpeg" x="50" y="100"  width="64" height="64" on-touch="_GOTO_PAGE:8" />
+        <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:24"/>
+        <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" on-touch="_GOTO_PAGE:25"/>
+        <agent img="video.jpeg" x="50" y="100"  width="64" height="64" on-touch="_GOTO_PAGE:26" />
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64" drop-zone="unlock4">
-            <unlock4 img="curiosity.jpeg" x="400" y="100" width="64" height="64" on-touch="_GOTO_PAGE:9"/>
+            <unlock4 img="curiosity.jpeg" x="400" y="100" width="64" height="64" on-touch="_GOTO_PAGE:27"/>
         </agent>
     </page>
     
-    <page background="bg-8.jpeg" soundtrack="audio2.m4a">
+    <page background="bg-8.jpeg"> 24
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock4" on-zone="unlocked4" on-trigger="unlocked4">
             <unlocked4 x="200"/>
         </agent>
-        <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:6"/>
-        <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" on-touch="_GOTO_PAGE:7"/>
-        <agent img="video.jpeg" x="50" y="100"  width="64" height="64" on-touch="_GOTO_PAGE:8" />
-        <agent img="curiosity.jpeg" x="400" y="100" width="64" height="64" on-touch="_GOTO_PAGE:9"/>
+        <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:24"/>
+        <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" on-touch="_GOTO_PAGE:25"/>
+        <agent img="video.jpeg" x="50" y="100"  width="64" height="64" on-touch="_GOTO_PAGE:26" />
+        <agent img="curiosity.jpeg" x="400" y="100" width="64" height="64" on-touch="_GOTO_PAGE:27"/>
     </page>
-    <page background="bg-8.jpeg">
+    <page background="bg-8.jpeg"> 25
         <agent x="20" y="190" color="white" font-size="20" text="Depois de sair do Santuário de Adoração e utilizar o Feixe de Luz da Espada Ancestral, o feixe aponta diretamente para o sul, onde estão penhascos já em vista. Após se dirigir até o local e subir alguns degraus"/>
-        <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:2"/>
+        <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:21"/>
     </page>
-    <page background="bg-8.jpeg">
+    <page background="bg-8.jpeg"> 26
         <agent x="20" y="190" color="white" font-size="20" text="Ao subir na panturrilha e apunhalar ela, Valus tropeçará, dando brecha para que você possa escalar sua perna. Suba até a cabeça onde estará seu ponto vital. "/>
-        <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:3"/>
+        <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:22"/>
     </page>
-    <page background="bg-8.jpeg">
+    <page background="bg-8.jpeg"> 27
         <agent video="valus.mp4.mp4" x="-350" y="40" width="1200" height="400"/>
-        <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:4"/>
+        <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:23"/>
     </page>
-    <page background="bg-8.jpeg">
+    <page background="bg-8.jpeg"> 28
         <agent x="20" y="290" color="white" font-size="20" text="Valus é o único colosso acompanhado com vida animal, com vários falcões sobrevoando ao seu redor."/>
         <agent x="20" y="260" color="white" font-size="20" text="Valus é o quarto maior colosso."/>
         <agent x="20" y="205" color="white" font-size="20" text="Valus é um dos três colossos que utilizam armas."/>
-        <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:5"/>
+        <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:24"/>
     </page>
 </fable>
