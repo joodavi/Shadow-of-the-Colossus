@@ -50,6 +50,7 @@
     </page>
     
     <page background="bg-8.jpeg">
+        <agent video="valus.mp4.mp4" x="0" y="400" width="300" />
         <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:2" />
     </page>
 </fable>
