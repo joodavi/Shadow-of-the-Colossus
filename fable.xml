@@ -5,7 +5,7 @@
             img="sword.png" x="220" y="275" width="64" height="64" draggable="true" 
             on-drop="unlock" on-zone="unlocked" on-trigger="unlocked"
         >
-            <unlocked x="-50" />
+            <unlocked x="200" />
         </agent>    
         
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" />
@@ -25,7 +25,7 @@
             img="sword.png" x="220" y="275" width="64" height="64" draggable="true" 
             on-drop="unlock2" on-zone="unlocked2" on-trigger="unlocked2"
         >
-            <unlocked2 x="-50" />
+            <unlocked2 x="200" />
         </agent>    
         
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" />
