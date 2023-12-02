@@ -11,7 +11,7 @@
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:2" />
         
         <agent img="weak-point-icon-lock.jpeg" x="400" y="350" width="64" height="64" drop-zone="unlock">
-            <unlock img="weak-point-icon.jpeg" width="64" height="64" on-touch="_NEXT_PAGE" />
+            <unlock img="weak-point-icon.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:3" />
         </agent>
         
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64" />
@@ -25,6 +25,6 @@
     
     <page background="bg-8.jpeg">
         <agent x="20" y="190" color="white" font-size="20" text="Ao subir na panturrilha e apunhalar ela, Valus tropeçará, dando brecha para que você possa escalar sua perna. Suba até a cabeça onde estará seu ponto vital. "/>
-        <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_PREV_PAGE" />
+        <agent x="450" y="450" img="close.jpeg" width="24" height="24" on-touch="_GOTO_PAGE:1" />
     </page>
 </fable>
