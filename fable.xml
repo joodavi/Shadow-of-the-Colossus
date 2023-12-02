@@ -1,5 +1,5 @@
 <fable>
-    <page background="bg-8.jpeg">
+    <page background="bg-8.jpeg" soundtrack="audio.m4a">
         <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
         <agent img="sword.png" x="220" y="275" width="64" height="64" draggable="true" on-drop="unlock3" on-zone="unlocked3" on-trigger="unlocked3">
             <unlocked3 x="200"/>
