@@ -9,7 +9,7 @@
         </agent>    
         
         <agent img="map-lock.jpeg" x="50" y="350" width="64" height="64" drop-zone="unlock3">
-
+            <unlock3 img="map.jpeg" width="64" height="64" on-tou />
         <agent />
 
         <agent img="weak-point-icon-lock.jpeg" x="400" y="350" width="64" height="64" />
