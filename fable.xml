@@ -10,7 +10,7 @@
         
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:3" />
 
-        <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" on-touch="_GOTO_PAGE:4" />
+        <agent img="weak-point-icon-lock.jpeg" x="400" y="350" width="64" height="64" />
         
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64" />
         
