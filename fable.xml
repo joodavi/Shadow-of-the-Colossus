@@ -1,5 +1,7 @@
 <fable>
-    <page back>
-
+    <page background="bg-1.jpeg">
+        <agent text="aa" x="0" y="0">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/J_uiphwBdJk?si=OPoIk17drPFYZJ87" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </agent>
     </page>
 </fable>
