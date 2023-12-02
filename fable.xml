@@ -18,4 +18,9 @@
         
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64" />
     </page>
+
+    
+    <page background="bg-8.jpeg">
+        <agent x="217" y="235" color="white" font-size="24" text="VALUS"/>
+    </page>
 </fable>
