@@ -118,7 +118,7 @@
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:25"/>
         <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" on-touch="_GOTO_PAGE:26"/>
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64" drop-zone="unlock2">
-            <unlock2 img="video.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:26"/>
+            <unlock2 img="video.jpeg" width="64" height="64" on-touch="_GOTO_PAGE:27"/>
         </agent>
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64"/>
     </page>
@@ -129,9 +129,9 @@
         </agent>
         <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:25"/>
         <agent img="weak-point-icon.jpeg" x="400" y="350" width="64" height="64" on-touch="_GOTO_PAGE:26"/>
-        <agent img="video.jpeg" x="50" y="100"  width="64" height="64" on-touch="_GOTO_PAGE:26" />
+        <agent img="video.jpeg" x="50" y="100"  width="64" height="64" on-touch="_GOTO_PAGE:27" />
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64" drop-zone="unlock4">
-            <unlock4 img="curiosity.jpeg" x="400" y="100" width="64" height="64" on-touch="_GOTO_PAGE:27"/>
+            <unlock4 img="curiosity.jpeg" x="400" y="100" width="64" height="64" on-touch="_GOTO_PAGE:28"/>
         </agent>
     </page>
     
