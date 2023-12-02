@@ -8,7 +8,7 @@
             <unlocked x="200" />
         </agent>    
         
-        <agent img="map.jpeg" x="50" y="350" width="64" height="64" />
+        <agent img="map.jpeg" x="50" y="350" width="64" height="64" on-touch="_GOTO_PAGE:2" />
         
         <agent img="weak-point-icon-lock.jpeg" x="400" y="350" width="64" height="64" drop-zone="unlock">
             <unlock img="weak-point-icon.jpeg" width="64" height="64" on-touch="_NEXT_PAGE" />
