@@ -12,7 +12,7 @@
         </agent>
         
         <agent img="video-lock.jpeg" x="50" y="100" width="64" height="64">
-            <
+            <unlock2 img="video.jpeg"  />
         </agent>
         <agent img="curiosity-lock.jpeg" x="400" y="100" width="64" height="64" />
     </page>
